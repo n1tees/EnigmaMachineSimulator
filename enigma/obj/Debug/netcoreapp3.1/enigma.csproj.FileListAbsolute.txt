@@ -1,0 +1,68 @@
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.exe
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.deps.json
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.runtimeconfig.json
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.dll
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.pdb
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.AssemblyInfo.cs
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.dll
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.pdb
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.genruntimeconfig.cache
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Form2.resources
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Properties.Resources.resources
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\code\enigma\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Form1.resources
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.exe
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.deps.json
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.runtimeconfig.json
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.runtimeconfig.dev.json
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.dll
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.pdb
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csprojAssemblyReference.cache
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Form1.resources
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Form2.resources
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Properties.Resources.resources
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csproj.GenerateResource.cache
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.AssemblyInfoInputs.cache
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.AssemblyInfo.cs
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.dll
+E:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.pdb
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.exe
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.deps.json
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.runtimeconfig.json
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.runtimeconfig.dev.json
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.dll
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.pdb
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csprojAssemblyReference.cache
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Form1.resources
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Form2.resources
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Properties.Resources.resources
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csproj.GenerateResource.cache
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.AssemblyInfoInputs.cache
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.AssemblyInfo.cs
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csproj.CoreCompileInputs.cache
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.dll
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.pdb
+G:\КУРСОВАЯ РАБОТА\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.genruntimeconfig.cache
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.exe
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.deps.json
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.runtimeconfig.json
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.dll
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\bin\Debug\netcoreapp3.1\enigma.pdb
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Form1.resources
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Form2.resources
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.Properties.Resources.resources
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.AssemblyInfo.cs
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.dll
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.pdb
+C:\Users\Никита\Desktop\КУРСОВАЯ РАБОТА\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.genruntimeconfig.cache
+D:\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.dll
+D:\Итоговый код\code\enigma\enigma\obj\Debug\netcoreapp3.1\enigma.pdb
