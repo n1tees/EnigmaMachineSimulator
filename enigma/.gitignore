@@ -1,0 +1,28 @@
+# Сборка — не заливать
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet (пакеты восстанавливаются через dotnet restore)
+packages/
+project.lock.json
+*.nupkg
+
+# Результаты сборки
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Прочее
+*.log
+.idea/
+*.rsuser
